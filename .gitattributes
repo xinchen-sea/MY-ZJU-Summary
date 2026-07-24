@@ -1,0 +1,24 @@
+# 强制仓库中常见文本文件统一使用 LF (Unix 风格换行)
+# 推荐在团队中共享此文件以确保跨平台一致性
+
+* text=auto
+
+# 指定常见文本文件使用 LF
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.txt text eol=lf
+
+# 二进制文件不做换行转换
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+assets/* binary
+
+# 如果需要单独规则，可在此追加
