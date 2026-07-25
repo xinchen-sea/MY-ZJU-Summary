@@ -59,6 +59,12 @@ nav = [
     ]},
     {"大三春夏" = [
         "SAN_SS/SAN_SS.md",
+        {"数值计算方法" = "SAN_SS/numerical_method.md"},
+        {"有限单元法及其工程应用" = "SAN_SS/finite_element.md"},
+        {"塑料加工技术及装备" = "SAN_SS/plastic_processing.md"},
+        {"过程装备控制技术" = "SAN_SS/equipment_control.md"},
+        {"过程机械" = "SAN_SS/process_machine.md"},
+        {"过程设备设计" = "SAN_SS/equipment_design.md"},
     ]},
     {"短学期" = [
         "short_term/short_term.md",

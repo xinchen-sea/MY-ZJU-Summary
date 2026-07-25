@@ -9,10 +9,10 @@
 - 课程时间：大三短学期，今年是7.7-7.18（7.5动员，7.6凌晨出发，7.18早上考试，中午出发回杭州）
 - 分数构成：考勤表现（10%）+ 实习记录本（30%）+ 电子实习报告（20%）+ 考试（40%）
 - 考试形式：开卷，只能带实习记录本，但是老师不收手机
-- 课程大纲：见以下文件（实习时间及安排）
+- 课程大纲：见以下[文件](./product_intern/time.pdf)（实习时间及安排）
 
 ??? info "实习时间及安排"
-    <iframe src="./product_intern/time.pdf" width="100%" height="800px"></iframe>
+    <iframe src="./product_intern/time.pdf" width="100%" height="400px"></iframe>
 
 ## 个人经验
 
