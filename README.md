@@ -27,3 +27,17 @@ Hello！欢迎来到「尘心的过控课程学习总结」（以下称「本站
 本网站仅用于学习交流。
 
 若资料侵犯您的权益，请联系删除。
+
+## License
+
+The content of this repository is licensed under:
+
+CC BY-NC 4.0
+
+Copyright © 2026 xinchen-sea
+
+Third-party materials remain the property of their
+respective copyright holders.
+
+You may share and adapt the content for
+non-commercial purposes with attribution.
