@@ -1,5 +1,13 @@
 # 英语词汇学
 
+??? note "资源文件"
+    [点击跳转](https://pan.baidu.com/s/17au4S0Cl9OWcHyB2PmlB8A?pwd=qemz)
+
+    通过网盘分享的文件：大三秋冬
+    链接: https://pan.baidu.com/s/17au4S0Cl9OWcHyB2PmlB8A?pwd=qemz 提取码: qemz 
+    --来自百度网盘超级会员v6的分享
+
+
 ## 课程内容
 
 - 课程学分：1.5
@@ -8,7 +16,9 @@
 - 分数构成：平时60%(出勤15，表现15，【3次】小测30)+期末论文40%
 - 考试形式：无考试，无pre
 - 课程大纲：见下图
-![教学日历](./cld.png)
+
+??? note "教学日历"
+	![教学日历](./cld.png)
 
 ## 个人经验
 
