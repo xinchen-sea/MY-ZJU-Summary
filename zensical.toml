@@ -96,13 +96,32 @@ nav = [
     ]},
     {"短学期" = [
         "short_term/short_term.md",
+        {"工程训练加强实习（乙）" = "short_term/engineering_intern.md"},
+        {"认知实习" = "short_term/cognitive_intern.md"},
         {"生产实习" = "short_term/product_intern.md"},
     ]},
     {"思政军体" = [
         "political/political.md",
+        {"形势与政策 I" = "political/situation_policy_1.md"},
+        {"思想道德与法治" = "political/moral_legal.md"},
+        {"中国近现代史纲要" = "political/modern_history.md"},
+        {"马克思主义基本原理" = "political/marxism.md"},
+        {"习近平新时代中国特色社会主义思想概论" = "political/xi_jinping_thought.md"},
+        {"毛泽东思想和中国特色社会主义理论体系概论" = "political/mao_zedong_thought.md"},
+        {"形势与政策 II" = "political/situation_policy_2.md"},
+        {"中国改革开放史" = "political/reform_history.md"},
+        {"社会主义发展史" = "political/socialism_history.md"},
+        {"军事理论" = "political/military_theory.md"},
+        {"乒乓球（初级）" = "political/pingpong.md"},
+        {"篮球（中级）" = "political/basketball.md"},
+        {"定向越野" = "political/orienteering.md"},
+        {"武术（初级）" = "political/martial_arts.md"},
     ]},
     {"通识选修" = [
         "MOYU/MOYU.md",
+        {"茶文化与茶健康" = "MOYU/tea.md"},
+        {"中国古代小说鉴赏" = "MOYU/essay.md"},
+        {"职业生涯规划" = "MOYU/career.md"},
     ]},
 ]
 
