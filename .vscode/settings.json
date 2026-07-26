@@ -1,5 +1,6 @@
 {
   "files.associations": {
     "*.md": "python-markdown"
-  }
+  },
+  "markdown.preview.breaks": true,
 }
