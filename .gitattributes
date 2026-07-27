@@ -12,6 +12,7 @@
 *.yml text eol=lf
 *.yaml text eol=lf
 *.txt text eol=lf
+*.toml text eol=lf
 
 # 二进制文件不做换行转换
 *.png binary
