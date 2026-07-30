@@ -6,6 +6,6 @@
 |:--|:--|:--|:--|:--|
 |[微积分（甲）I](calculus/) |秋冬|5.0|必修| |
 |[线性代数（甲）](linear_algebra/) |秋冬|3.5|必修| |
-|[工程图学](engineering_drawing/) |秋冬|2.5|必修| |
+|[工程图学](engineering_drawing/) |秋冬|2.5|必修|已更新✅|
 |[大学英语III](english/) |秋冬|3.0|必修| |
 |[C程序设计基础及实验](c_programming/) |秋冬|4.0|必修| |
