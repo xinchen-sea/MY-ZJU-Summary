@@ -27,7 +27,7 @@
 
 ### 相关资源/经验帖
 
-- [教材习题指导【点击下载】](./复变函数与拉普拉斯变换习题指导.pdf)
+- [教材习题指导【点击下载】](complex.pdf)
 - 课程笔记
     - [Savia的网站](https://savia7582.github.io/Exterior/Math/Complex/)
     - [【学习天地】复变笔记分享(LaTeX版)](https://www.cc98.org/topic/6363572)
