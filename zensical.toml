@@ -57,7 +57,7 @@ nav = [
         {"机械制图及CAD基础" = "YI_SS/mechanical_drawing.md"},
         {"工程训练" = "YI_SS/engineering_training.md"},
         {"大学物理（甲）I" = "YI_SS/physics.md"},
-        {"微积分（甲）II" = "YI_SS/calculus.md"},
+        {"微积分（甲）II" = "YI_SS/calculus2.md"},
         {"常微分方程" = "YI_SS/ODE.md"},
     ]},
     {"大二秋冬" = [
