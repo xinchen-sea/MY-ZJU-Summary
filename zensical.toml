@@ -38,9 +38,9 @@ extra_css = [
 nav = [
     {"主页" = [
         "INDEX/home.md",
-        {"导航说明" = "INDEX/nav.md"},
+        {"导航" = "INDEX/nav.md"},
         {"前言" = "INDEX/preface.md"},
-        {"施工进度" = "INDEX/work.md"},
+        {"施工" = "INDEX/work.md"},
     ]},
     {"大一秋冬" = [
         "YI_AW/YI_AW.md",
